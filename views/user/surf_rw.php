@@ -1,0 +1,1 @@
+<?=$admin->text($db, "SITE_ADDONS_BLOCK"); ?>
